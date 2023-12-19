@@ -5,4 +5,4 @@ I was tasked in this project to create a calneder application that allows user t
 I have been able to reinforce a lot of the learnings from the previous week and develop DOM skills & web api skills further.
 
 The live link for my webpage is:
-git
+ https://gabdi13.github.io/work-day-scheduler/
